@@ -8,5 +8,5 @@ O curso de introdução à linguagem Clojure é uma iniciativa conjunta entre o 
 
 ## Estrutura do Repositório
 
-O repositório está organizado em pastas, cada uma correspondente a uma atividade desenvolvida durante o curso. As atividades são projetadas para abordar diferentes aspectos da linguagem Clojure, desde conceitos básicos até tópicos mais avançados. Cada pasta contém o código fonte das atividades, bem como quaisquer recursos adicionais necessários.
+O repositório está organizado em pastas, cada uma correspondente a uma atividade desenvolvida durante o curso. As atividades são projetadas para abordar diferentes aspectos da linguagem Clojure, desde conceitos básicos até tópicos mais avançados. Cada pasta contém o código fonte das atividades, bem como quaisquer recursos adicionais necessários, anotações, conteúdos, etc.
 
