@@ -4,7 +4,7 @@ Este repositório contém as atividades desenvolvidas durante o curso de introdu
 
 ## Sobre o Curso
 
-O curso de introdução à linguagem Clojure é uma iniciativa conjunta entre o Nubank, uma das principais fintechs do Brasil, e a UFCG, renomada instituição de ensino superior. O objetivo do curso é proporcionar aos participantes uma compreensão básica da linguagem Clojure, uma linguagem de programação funcional, dinâmica e orientada a expressões. Durante o curso, os participantes têm a oportunidade de explorar os fundamentos da linguagem, suas características principais e como ela pode ser aplicada no desenvolvimento de software.
+O objetivo do curso é proporcionar aos participantes uma compreensão básica da linguagem Clojure, uma linguagem de programação funcional, dinâmica e orientada a expressões. Durante o curso, os participantes têm a oportunidade de explorar os fundamentos da linguagem, suas características principais e como ela pode ser aplicada no desenvolvimento de software.
 
 ## Estrutura do Repositório
 
